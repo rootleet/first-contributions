@@ -2872,5 +2872,6 @@ Disguy
 - [Gustavo Esser](https://github.com/GustavoEsser)
 - [Daniele Freitas](https://github.com/dani-freitas)
 - [Hernani Junior](https://github.com/hernanijr)
+- [rootleet](https://github.com/rootleet)
 
 <!-- prettier-ignore-end -->
